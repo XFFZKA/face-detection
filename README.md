@@ -1,4 +1,3 @@
-```bash
 # 基于嵌入式平台的实时人脸匿名化系统
 
 ## 📌 项目简介
@@ -31,9 +30,9 @@
 ## ⚙️ 安装方法
 
 ### 1. 克隆项目
-​```bash
+```bash
 git clone https://github.com/XFFZKA/face-protection.git
-cd face-protectionxxxxxxxxxx git clone https://github.com/XFFZKA/face-protection.gitcd face-protectionbash
+cd face-protectionxxxxxxxxxx git clone https://github.com/XFFZKA/face-protection.gitcd face-protectionbash
 
 ### 📦2. 安装依赖
 ​```bash
@@ -43,3 +42,4 @@ pip install -r requirements.txt
 python realtime_faceswap_camera.py
 
 ```
+
