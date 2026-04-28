@@ -29,17 +29,23 @@
 
 ## ⚙️ 安装方法
 
-### 1. 克隆项目
+### 📦1. 克隆项目
 ```bash
 git clone https://github.com/XFFZKA/face-protection.git
+
 cd face-protectionxxxxxxxxxx git clone https://github.com/XFFZKA/face-protection.gitcd face-protectionbash
+```
 
 ### 📦2. 安装依赖
-​```bash
+```bash
 pip install -r requirements.txt
+```
 
 ### 📦3. 启动程序
-python realtime_faceswap_camera.py
 
+```python
+python realtime_faceswap_camera.py
 ```
+
+
 
