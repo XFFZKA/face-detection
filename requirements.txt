@@ -1,0 +1,21 @@
+
+---
+
+# 📦 requirements.txt
+
+```txt
+numpy==1.24.4
+opencv-python==4.8.0.76
+
+torch==1.14.0
+torchvision==0.15.0
+
+onnx==1.14.0
+onnxruntime==1.15.1
+
+scipy
+tqdm
+Pillow
+
+# 可选依赖
+matplotlib
