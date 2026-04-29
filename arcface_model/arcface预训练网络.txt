@@ -1,0 +1,15 @@
+📦 模型文件来源说明（Model Sources）
+
+本项目涉及多种预训练模型与权重文件，分别用于人脸检测、身份特征提取以及人脸生成等模块。各文件来源如下。
+
+
+ 📁 文件列表
+
+landmarks/
+.DS_Store
+3_net_G.pth
+195_net_G.pth
+ElasticFaceArcAug_backbone.pth
+MaskInvHG_backbone.pth
+MaskInvLG_backbone.pth
+model.pth
