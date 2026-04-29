@@ -1,0 +1,13 @@
+📦 ArcFace 模型文件说明（arcface_checkpoint.tar）
+
+📁 文件信息
+ArcFace 是当前主流的人脸识别方法之一，其核心思想是通过引入加性角度间隔损失（Additive Angular Margin Loss），增强特征的判别能力。
+
+原始论文：
+ Deng J, Guo J, Xue N, et al. ArcFace: Additive Angular Margin Loss for Deep Face Recognition. CVPR, 2019.
+
+
+🔗 来源
+开源地址：https://github.com/deepinsight/insightface
+提供 ArcFace 的标准训练与推理实现
+常用于生成 backbone 权重或 checkpoint 文件
